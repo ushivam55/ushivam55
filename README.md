@@ -1,8 +1,12 @@
 <!-- GitHub Profile README for Shivam Upadhyay -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivam+Upadhyay;A+Full-Stack+Learner+%26+AI+Explorer;Welcome+to+my+GitHub+Universe!+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <span style="background-color: black; color: cyan; font-size: 22px; padding: 10px 20px; border-radius: 10px;">
+    👋 Hi, I'm <strong>Shivam Upadhyay</strong> — Full-Stack Learner & AI Explorer 🚀
+  </span>
+</p>
+
+
 
 ---
 
@@ -56,7 +60,7 @@
 ## 🧠 Learning Goals
 
 ```text
-✔️ Master React & Flutter
 ✔️ Build a Compiler from Scratch
 ✔️ Dive Deeper into AI & ML Projects
 ✔️ Stay Consistent on GitHub
+

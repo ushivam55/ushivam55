@@ -1,66 +1,113 @@
-<!-- GitHub Profile README for Shivam Upadhyay -->
+# Hey there, I'm Shivam Upadhyay! 👋 
 
-<p align="center">
-  <span style="background-color: black; color: cyan; font-size: 22px; padding: 10px 20px; border-radius: 10px;">
-    👋 Hi, I'm <strong>Shivam Upadhyay</strong> — Full-Stack Learner & AI Explorer 🚀
-  </span>
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/shivamupadhyay25">
+    <img src="https://img.shields.io/github/followers/shivamupadhyay25?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+  </a>
 </p>
 
-
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Engineering student at **Shree L.R. Tiwari College of Engineering**
-- 💻 Tech enthusiast focused on **Web Dev**, **Flutter Apps**, **AI**, and **Compiler Projects**
-- 🔍 Exploring: `Python`, `Next.js`, `Flutter`, `AI`, `Compiler Design`
-- 🌐 Passionate about building things that solve **real problems**
+I am an engineering student and developer passionate about building cross-platform applications, engineering developer tools, and exploring compiler architectures and AI. I enjoy turning complex problems into clean, efficient, and user-friendly software solutions.
 
 ---
 
-## 🔧 Tech Stack
+## ⚡ About Me
 
-<div align="center">
+- 🎓 Pursuing a Bachelor of Engineering (B.E.) at **Shree L.R. Tiwari College of Engineering**
+- 💻 Specialized focus in **Full-Stack Web Development**, **Mobile App Engineering**, and **Systems Programming**
+- 🧠 Currently studying **Compiler Design** and experimenting with **Natural Language Processing (NLP)**
+- 🌱 Actively learning **Next.js**, **Tailwind CSS**, and **ML algorithms**
+- 💬 Ask me about **JavaScript**, **Python**, or **Flutter** — I'm always happy to collaborate!
 
-![HTML](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java)
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
+---
 
-</div>
+## 🛠️ Tech Stack & Tools
+
+<table>
+  <tr>
+    <td align="left" valign="top" width="50%">
+      <h4>🌐 Web & Frontend</h4>
+      <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+    <td align="left" valign="top" width="50%">
+      <h4>⚙️ Languages & Systems</h4>
+      <img src="https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="50%">
+      <h4>📱 Mobile Development</h4>
+      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+    </td>
+    <td align="left" valign="top" width="50%">
+      <h4>🗄️ Databases & Version Control</h4>
+      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project                        | Description                                       | Tech Used              |
-|-------------------------------|---------------------------------------------------|------------------------|
-| 🥦 **Vegetable Market System** | Cart-based vegetable viewer & filter system       | Python, Dict, Tabulate |
-| 🏥 **Hospital Appointment App**| One-page UI for booking appointments              | HTML, CSS, JavaScript  |
-| 🧠 **AI Resume Screener**      | Resume filtering using simple NLP techniques      | Python, AI, Resume     |
-| 🛠️ **Custom Compiler (WIP)**  | Parser + code generator + syntax checker          | C/Python (Planned)     |
+### 🧠 **CV Insight — AI Resume Screener & ATS Auditor**
+*An ATS Resume Analyzer and Career Readiness Evaluator designed to audit engineering resumes client-side.*
+* **Heuristics & Verification**: Validates formatting compliance, contact info, core CS fundamentals (DSA, OS, DBMS), and project complexities.
+* **Technology**: Vanilla HTML5/CSS3 (custom glassmorphic theme), JavaScript (ES6+), `PDF.js` for local parsing, and `Lucide Icons`.
+
+### 🛠️ **Custom Compiler Front-End (WIP)**
+*A lightweight compiler module focusing on program translation pipelines.*
+* **Components**: Lexical analyzer, syntax parser, check modules, and intermediate code generation.
+* **Technology**: C / Python (Planned)
+
+### 🥦 **Vegetable Market Management System**
+*An inventory filter and transaction processing console tool for small-scale produce vendors.*
+* **Architecture**: Tabular report generation, structural data dictionaries, and user search indexes.
+* **Technology**: Python, Dicts, Tabulate API
+
+### 🏥 **Hospital Appointment Scheduler**
+*A user-friendly booking interface for outpatient checkups.*
+* **Interface**: Interactive form validations, reservation scheduling, and dynamic UI panels.
+* **Technology**: HTML, CSS, JavaScript
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Git & Learning Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamupadhyay25&theme=radical&show_icons=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shivamupadhyay25&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamupadhyay25&theme=radical&show_icons=true" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamupadhyay25&layout=compact&theme=radical" height="185" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shivamupadhyay25&theme=radical" width="60%" />
 </p>
 
 ---
 
-## 🧠 Learning Goals
+## 🎯 Learning & Growth Goals
 
-```text
-✔️ Build a Compiler from Scratch
-✔️ Dive Deeper into AI & ML Projects
-✔️ Stay Consistent on GitHub
+- [x] Complete local-first PDF parsing engines (CV Insight)
+- [/] Construct grammar tables and parser components for Custom Compiler
+- [ ] Incorporate deep learning models into resume text prediction
+- [ ] Maintain a daily contributions streak on GitHub
 
+---
+
+<p align="center">
+  ✨ <i>"The best way to predict the future is to invent it."</i> ✨
+</p>

@@ -7,9 +7,6 @@
   <a href="mailto:your.email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/shivamupadhyay25">
-    <img src="https://img.shields.io/github/followers/shivamupadhyay25?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
-  </a>
 </p>
 
 I am an engineering student and developer passionate about building cross-platform applications, engineering developer tools, and exploring compiler architectures and AI. I enjoy turning complex problems into clean, efficient, and user-friendly software solutions.

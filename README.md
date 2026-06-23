@@ -109,8 +109,3 @@ I am an engineering student and developer passionate about building cross-platfo
   ✨ <i>"The best way to predict the future is to invent it."</i> ✨
 </p>
 
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhinendraSingh3/abhinendraSingh3/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
